@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width: 80%;
+    height: auto;
+    background-color: rgb(238, 236, 236);
+    margin: auto;
+    margin-top: 2%;
+}
+
+div{
+    text-align: center;
+
+    width: 100px;
+    height: 100px;
+}
+
+.uno{
+    background-color: rgba(53, 186, 246, 1);
+}
+.dos{
+    background-color:rgba(127, 210, 248, 1);
+}
+.tres{
+    background-color:rgba(182, 229, 250, 1);
+}
+.cuatro{
+    background-color: rgba(203, 236, 251, 1);
+}
+.cinco{
+    background-color: rgba(218, 241, 252, 1);
+}
+.seis{
+    background-color: rgba(237, 248, 253, 1);
+}
